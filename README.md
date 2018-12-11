@@ -2,7 +2,7 @@ I referred
 # "Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to B"uild Intelligent Systems"
                                                      By Aurélien Géron.
                                                      
-                                                     # And
+   # And
                                                      
 # "Machine Learning A-Z™: Hands-On Python & R In Data Science" 
                                                      by Udemy.
